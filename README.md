@@ -1,7 +1,8 @@
-# CSC207 Week 1 Lab Activity #1: Fizz Buzz Done!
+# CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
 But first, let's get you your own copy of this codebase to work with.
+
 If you see this message, you are good.
 
 ## Task 0 Forking a public repository on GitHub
