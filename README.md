@@ -5,6 +5,7 @@ But first, let's get you your own copy of this codebase to work with.
 
 If you see this message, you are good.
 If you see this message, you are good.
+If you see this message, you are good.
 
 ## Task 0 Forking a public repository on GitHub
 
